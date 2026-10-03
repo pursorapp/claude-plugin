@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pursor": {
+      "type": "http",
+      "url": "https://pursor.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pursor",
+  "owner": { "name": "Pursor", "url": "https://pursor.com" },
+  "plugins": [
+    {
+      "name": "pursor",
+      "description": "Read a client's finance work from Pursor: Today, the close, reconciliations, accounts, the cashflow, and ask its ledger a question. Read-only.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://pursor.com/plugin"
+    }
+  ]
+}
