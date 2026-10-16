@@ -1,7 +1,7 @@
 {
   "name": "pursor",
   "displayName": "Pursor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read a client's finance work from Pursor: Today, the close, reconciliations, accounts, the cashflow, and ask its ledger a question. Read-only.",
   "author": { "name": "Pursor", "url": "https://pursor.com" },
   "license": "MIT",
