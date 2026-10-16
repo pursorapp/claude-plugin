@@ -3,13 +3,23 @@
   "displayName": "Pursor",
   "version": "0.1.1",
   "description": "Read a client's finance work from Pursor: Today, the close, reconciliations, accounts, the cashflow, and ask its ledger a question. Read-only.",
-  "author": { "name": "Pursor", "url": "https://pursor.com" },
+  "author": {
+    "name": "Pursor",
+    "url": "https://pursor.com"
+  },
   "license": "MIT",
   "homepage": "https://pursor.com",
+  "repository": "https://github.com/pursorapp/claude-plugin",
   "documentationUrl": "https://pursor.com/plugin",
   "supportUrl": "https://pursor.com/contact",
   "privacyPolicyUrl": "https://pursor.com/privacy",
   "termsOfServiceUrl": "https://pursor.com/terms",
   "icon": "icon.png",
-  "keywords": ["finance", "accounting", "month-end close", "reconciliation", "cashflow"]
+  "keywords": [
+    "finance",
+    "accounting",
+    "month-end close",
+    "reconciliation",
+    "cashflow"
+  ]
 }
