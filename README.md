@@ -10,6 +10,12 @@ It reads. Nothing here posts, drafts, codes, signs or moves a card.
 Every verb stays on the card in Pursor, with its trail and its Undo, and
 every answer ends with the link to the page that holds it.
 
+## Getting Pursor
+
+Pursor is set up for your company by your accounting firm or by us; to
+start, talk to us at https://pursor.com/contact. The plugin reads an
+account you already have.
+
 ## Install
 
 ```
@@ -25,7 +31,7 @@ Claude reads Pursor as you. In claude.ai or Cowork, add
 
 Exactly what you can see in Pursor, as you. A person at the client reads
 their own company; a person at the servicing firm reads the clients the
-firm lets them see. Payroll is never read from here, for anyone.
+firm lets them see. Payroll's cards and its page are never read from here.
 
 ## What it records
 
